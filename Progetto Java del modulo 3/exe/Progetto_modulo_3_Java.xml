@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\matte\OneDrive - Scuola Paritaria S. Freud SRL\Desktop\FREUD\4°D\QUADERNI E ALTRO\INFORMATICA\JAVA\ESERCIZI IN CLASSE\Progetto_modulo_3_Java\exe\Progetto_modulo_3_Java.jar</jar>
+  <outfile>C:\Users\matte\OneDrive - Scuola Paritaria S. Freud SRL\Desktop\FREUD\4°D\QUADERNI E ALTRO\INFORMATICA\JAVA\ESERCIZI IN CLASSE\Progetto_modulo_3_Java\exe\Progetto_modulo_3_Java.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-25</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Progetto_modulo_3_Java</txtFileVersion>
+    <fileDescription>Progetto_modulo_3_Java</fileDescription>
+    <copyright>Matteo Magrino</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>Progetto_modulo_3_Java</txtProductVersion>
+    <productName>Progetto_modulo_3_Java</productName>
+    <companyName>Matteo Magrino</companyName>
+    <internalName>Progetto_modulo_3_Java</internalName>
+    <originalFilename>Progetto_modulo_3_Java.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ITALIAN</language>
+  </versionInfo>
+</launch4jConfig>
