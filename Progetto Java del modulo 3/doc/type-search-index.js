@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.Freud.Informatica.QuartaD.Progetto_modulo_3_Java","l":"Calcolatrice"},{"p":"it.Freud.Informatica.QuartaD.Progetto_modulo_3_Java","l":"Progetto_modulo_3_Java"}];updateSearchResults();

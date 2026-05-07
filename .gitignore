@@ -1,4 +1,31 @@
+# File di progetto IDE e documentazione
 .idea/ 
+.metadata/
 *.zip 
 *.docx 
 *.txt 
+
+# File generati automaticamente
+# *.class
+# *.jar
+# *.war
+# *.ear
+doc/
+exe/
+bin/
+target/
+
+# File di configurazione Eclipse
+*.classpath
+*.project
+.settings/
+
+# File di configurazione Maven Wrapper
+mvnw
+mvnw.cmd
+.mvn/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
