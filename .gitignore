@@ -1,15 +1,18 @@
 # File di progetto IDE e documentazione
-.idea/ 
+.idea/
 .metadata/
 *.zip 
 *.docx 
 *.txt 
 
 # File generati automaticamente
-# *.class
-# *.jar
-# *.war
-# *.ear
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.tar.gz
+*.rar
 doc/
 exe/
 bin/
@@ -19,13 +22,70 @@ target/
 *.classpath
 *.project
 .settings/
+.loadpath
+.recommenders/
+.factorypath
+
+# File di configurazione IntelliJ
+*.iml
+*.iws
+*.ipr
+out/
+
+# File di configurazione NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# File di configurazione VS Code
+.vscode/
 
 # File di configurazione Maven Wrapper
 mvnw
 mvnw.cmd
-.mvn/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# File generati da Maven release plugin
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# File di configurazione JavaFX
+*.fxml~
+.scenebuilder/
+
+# File Java temporanei e crash log JVM
+*.ctxt
+.mtj.tmp/
+hs_err_pid*
+replay_pid*
+
+# Log
+*.log
+logs/
+
+# File sensibili (non committare mai)
+*.env
+.env.*
+application-dev.properties
+application-local.properties
+application-prod.properties
+secrets.json
 
 # File di sistema
 .DS_Store
+.AppleDouble
+.LSOverride
 Thumbs.db
+Thumbs.db:encryptable
 desktop.ini
+$RECYCLE.BIN/
+*~
