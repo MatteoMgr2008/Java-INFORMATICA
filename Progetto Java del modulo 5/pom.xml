@@ -5,13 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>it.freud.quartad.progetti.modulo5</groupId>
-    <artifactId>Progetto_modulo_5</artifactId>
+    <artifactId>Progetto_Java_del_modulo_5</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Progetto modulo 5 2</name>
+    <name>Progetto Java del modulo 5</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.12.1</junit.version>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -127,14 +129,14 @@
             <plugin>
                 <groupId>org.openjfx</groupId>
                 <artifactId>javafx-maven-plugin</artifactId>
-                <version>0.0.8</version>
+                <version>0.0.9</version>
                 <executions>
                     <execution>
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                it.freud.quartad.progetti.modulo5.progetto_modulo_5/it.freud.quartad.progetti.modulo5.progetto_modulo_5.HelloApplication
+                                it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5/it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

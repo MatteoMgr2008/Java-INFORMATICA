@@ -1,4 +1,4 @@
-package it.freud.quartad.progetti.modulo5.progetto_modulo_5;
+package it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5;
 
 import javafx.application.Application;
 

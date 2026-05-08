@@ -1,4 +1,4 @@
-module it.freud.quartad.progetti.modulo5.progetto_modulo_5 {
+module it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5 {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -11,6 +11,6 @@ module it.freud.quartad.progetti.modulo5.progetto_modulo_5 {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens it.freud.quartad.progetti.modulo5.progetto_modulo_5 to javafx.fxml;
-    exports it.freud.quartad.progetti.modulo5.progetto_modulo_5;
+    opens it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5 to javafx.fxml;
+    exports it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5;
 }
