@@ -68,11 +68,11 @@ buildNumber.properties
 hs_err_pid*
 replay_pid*
 
-# Log
+# Log file JVM
 *.log
 logs/
 
-# File sensibili (non committare mai)
+# File sensibili (da non committare mai)
 *.env
 .env.*
 application-dev.properties
