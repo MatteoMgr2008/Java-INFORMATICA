@@ -136,7 +136,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5/it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5.HelloApplication
+                                it.Freud.Informatica.QuartaD.Progetto_modulo_5_Java/it.Freud.Informatica.QuartaD.Progetto_modulo_5_Java.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

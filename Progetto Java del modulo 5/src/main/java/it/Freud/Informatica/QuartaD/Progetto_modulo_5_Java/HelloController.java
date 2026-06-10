@@ -1,4 +1,4 @@
-package it.freud.quartad.progetti.modulo5.progetto_java_del_modulo_5;
+package it.Freud.Informatica.QuartaD.Progetto_modulo_5_Java;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
